@@ -1,0 +1,10 @@
+<turret_02.model>
+  <materialNames>
+  </materialNames>
+  <visibilityBox>
+    <min>-1.65954 0.0610934 -2.56299</min>
+    <max>1.67321 1.65154 1.13392</max>
+  </visibilityBox>
+  <tank>	true	</tank>
+  <nodefullVisual>vehicles/Avalon's WoT Workshop/GB24_Centurion_Mk9/normal/lod0/Turret_02</nodefullVisual>
+</turret_02.model>

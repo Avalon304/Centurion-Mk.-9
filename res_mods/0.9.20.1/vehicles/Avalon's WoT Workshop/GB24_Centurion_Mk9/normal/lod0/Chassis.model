@@ -1,0 +1,10 @@
+<chassis.model>
+  <materialNames>
+  </materialNames>
+  <visibilityBox>
+    <min>-1.61999 -0.0152053 -3.22371</min>
+    <max>1.61999 1.35121 3.98029</max>
+  </visibilityBox>
+  <tank>	true	</tank>
+  <nodefullVisual>vehicles/Avalon's WoT Workshop/GB24_Centurion_Mk9/normal/lod0/Chassis</nodefullVisual>
+</chassis.model>
